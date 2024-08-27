@@ -51,3 +51,29 @@ Organize your Git repository with the following structure:
                     │   └── ...
                     └── output/
 
+
+**Contributing**
+
+Feel free to submit issues or pull requests if you have suggestions or improvements.
+
+**License**
+
+This project is licensed under the MIT License.
+
+
+
+
+### 3. **Running the Script**
+
+Once everything is set up:
+
+1. **Clone the repository** to your local machine.
+2. **Navigate** to the repository directory.
+3. **Modify the paths** in the `convert_json_to_txt.py` script to match your data.
+4. **Execute the script** using Python.
+
+The converted `.txt` files will be saved in the output directory, ready to be used for YOLO training.
+
+By following this setup, users will have a clear understanding of the repository's purpose and how to utilize the script for their own datasets.
+
+
