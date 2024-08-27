@@ -35,3 +35,16 @@ Converting JSON to .txt allows you to standardize your dataset, especially when 
     Normalize the bounding box coordinates and save them in the YOLO-compatible .txt format.
 
 Conclusion: Ensuring that your annotations are in the .txt format required by YOLO is essential for smooth and efficient training. This conversion process is a key part of preparing your dataset for object detection tasks using YOLO.
+
+        yolo-json-to-txt/
+│
+├── README.md
+├── convert_json_to_txt.py
+└── sample_data/
+    ├── index.json
+    ├── data/
+    │   ├── image1.jpg
+    │   ├── image2.png
+    │   └── ...
+    └── output/
+
